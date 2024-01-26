@@ -1,2 +1,5 @@
 console.log("lorem")
-console.log("loremv2")
+
+const result = 10+5
+
+console.group(`Result is ${result}`)
